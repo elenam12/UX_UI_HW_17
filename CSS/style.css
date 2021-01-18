@@ -1,0 +1,62 @@
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width:50%;
+  padding: 1%;
+}
+
+li {
+  display: inline;
+}
+
+nav {
+display: inline-block;
+vertical-align: top;
+width: 100%;
+padding: 1%;
+text-align: center;
+}
+.logo {
+  text-align:center;
+
+
+}
+.heroimg {
+  height:600px;
+  padding:25px;
+  text-align: center;
+
+}
+
+  ul {
+    display:inline-block;
+  }
+    
+  ul > li {
+    /* padding: 20px; */
+
+  }
+
+  
+  
+
+  h1 {
+    text-align: center;
+    color: black;
+  }
+
+
+
+  .item3 > h1 {
+    text-align: center;
+    color: black;
+  }
+ 
+  p {
+    
+    text-align: center;
+    color: black;
+  }
